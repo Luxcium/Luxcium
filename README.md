@@ -1,5 +1,6 @@
 
 #  \#100dayofcode
+![Twitter Follow](https://img.shields.io/twitter/follow/Luxcium?label=Follow%20me&style=social)
 
 - Learn every day for 100 day.
 - Code at least one hour per day.
