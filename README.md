@@ -1,7 +1,7 @@
 # SOLID principles
 
 Although they apply to any object-oriented design, the SOLID principles can 
-also form a core philosophy for methodologies such as [agile](https://en.wikipedia.org/wiki/Agile_software_development) development or 
+also form a core philosophy for methodologies such as [agile development](https://en.wikipedia.org/wiki/Agile_software_development) or 
 adaptive software development ([source](https://en.wikipedia.org/wiki/SOLID) ― WIKI).
 
 ## Concepts
