@@ -27,7 +27,7 @@ One should "depend upon abstractions, [not] concretions.
 
 # Design Patterns
 
-**Design Patterns: *Elements of Reusable Object-Oriented Software (1994)*** is a software engineering book describing software design patterns. The book was written by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, with a foreword by Grady Booch.
+**Design Patterns:** *Elements of Reusable Object-Oriented Software (1994)* is a software engineering book describing software design patterns. The book was written by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, with a foreword by Grady Booch.
 
 It has been influential to the field of software engineering and is regarded as an important source for object-oriented design theory and practice. The authors are often referred to as the Gang of Four (GoF).
 
