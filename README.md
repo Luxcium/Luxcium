@@ -2,9 +2,7 @@
 
 Although they apply to any object-oriented design, the SOLID principles can 
 also form a core philosophy for methodologies such as agile development or 
-adaptive software development.
-
-([source](https://en.wikipedia.org/wiki/SOLID) ― WIKI)
+adaptive software development ([source](https://en.wikipedia.org/wiki/SOLID) ― WIKI).
 
 ## Concepts
 
@@ -33,9 +31,7 @@ in his 2000 paper Design Principles and Design Patterns.
 
 **Design Patterns:** *Elements of Reusable Object-Oriented Software (1994)* is a software engineering book describing software design patterns. The book was written by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, with a foreword by Grady Booch.
 
-It has been influential to the field of software engineering and is regarded as an important source for object-oriented design theory and practice. The authors are often referred to as the Gang of Four (GoF).
-
-([Source](https://en.wikipedia.org/wiki/Design_Patterns) ― WIKI)
+It has been influential to the field of software engineering and is regarded as an important source for object-oriented design theory and practice. The authors are often referred to as the Gang of Four «GoF» ([Source](https://en.wikipedia.org/wiki/Design_Patterns) ― WIKI).
 
 ## Creational
 
