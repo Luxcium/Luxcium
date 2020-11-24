@@ -1,18 +1,14 @@
 # SOLID principles
 
-The theory of SOLID principles was introduced by 
-[Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin) (Uncle Bob)
-in his 2000 paper Design Principles and Design Patterns.
-
- > The SOLID acronym was introduced later by Michael Feathers.
+Although they apply to any object-oriented design, the SOLID principles can 
+also form a core philosophy for methodologies such as agile development or 
+adaptive software development.
 
 ([source](https://en.wikipedia.org/wiki/SOLID) ― WIKI)
 
 ## Concepts
 
-Although they apply to any object-oriented design, the SOLID principles can 
-also form a core philosophy for methodologies such as agile development or 
-adaptive software development.
+
 
 - [Single-responsibility principle](https://en.wikipedia.org/wiki/Single-responsibility_principle)
 A class should only have a single responsibility, that is, only changes to one part of the software's specification should be able to affect the specification of the class.
@@ -25,6 +21,14 @@ A class should only have a single responsibility, that is, only changes to one p
  - [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
 One should "depend upon abstractions, [not] concretions.
 
+### History
+
+The theory of SOLID principles was introduced by 
+[Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin) (Uncle Bob)
+in his 2000 paper Design Principles and Design Patterns.
+
+ > The SOLID acronym was introduced later by Michael Feathers.
+ 
 # Design Patterns
 
 **Design Patterns:** *Elements of Reusable Object-Oriented Software (1994)* is a software engineering book describing software design patterns. The book was written by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, with a foreword by Grady Booch.
