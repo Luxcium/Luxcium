@@ -23,9 +23,15 @@ One should "depend upon abstractions, [not] concretions.
 
 The theory of SOLID principles was introduced by 
 [Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin) (Uncle Bob)
-in his 2000 paper Design Principles and Design Patterns.
+in his 2000 paper Design Principles and Design Patterns. The SOLID acronym was introduced later by Michael Feathers.
 
- > The SOLID acronym was introduced later by Michael Feathers.
+
+###### From Wikipedia, the free encyclopedia ([source](https://en.wikipedia.org/wiki/SOLID)) ― [Used under license](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
+ ― Additional terms may apply.
+ 
+ ----
+ 
+ 
  
 # Design Patterns
 
@@ -92,6 +98,11 @@ between objects.**
  - 23. [Visitor](https://en.wikipedia.org/wiki/Visitor_pattern) separates an algorithm from an object structure by moving
        the hierarchy of methods into one object.
 
+
+##### From Wikipedia, the free encyclopedia ([source](https://en.wikipedia.org/wiki/Design_Patterns)) ― [Used under license](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
+ ― Additional terms may apply.
+ 
+ ----
 
 ## ARCHIVED
 
