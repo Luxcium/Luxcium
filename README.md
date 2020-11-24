@@ -4,7 +4,7 @@ Design Patterns: Elements of Reusable Object-Oriented Software (1994) is a softw
 
 It has been influential to the field of software engineering and is regarded as an important source for object-oriented design theory and practice. The authors are often referred to as the Gang of Four (GoF).
 
-[(Source )](https://en.wikipedia.org/wiki/Design_Patterns) ― Wiki
+([Source](https://en.wikipedia.org/wiki/Design_Patterns) ― Wiki)
 
 ## Creational
 
