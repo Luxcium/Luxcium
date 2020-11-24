@@ -26,8 +26,7 @@ The theory of SOLID principles was introduced by
 in his 2000 paper Design Principles and Design Patterns. The SOLID acronym was introduced later by Michael Feathers.
 
 
-###### From Wikipedia, the free encyclopedia ([source](https://en.wikipedia.org/wiki/SOLID)) ― [Used under license](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
- ― Additional terms may apply.
+###### From Wikipedia, the free encyclopedia ([source](https://en.wikipedia.org/wiki/SOLID)) ― [Used under license](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) ― Additional terms may apply.
  
  ----
  
@@ -99,8 +98,7 @@ between objects.**
        the hierarchy of methods into one object.
 
 
-##### From Wikipedia, the free encyclopedia ([source](https://en.wikipedia.org/wiki/Design_Patterns)) ― [Used under license](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
- ― Additional terms may apply.
+###### From Wikipedia, the free encyclopedia ([source](https://en.wikipedia.org/wiki/Design_Patterns)) ― [Used under license](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) ― Additional terms may apply.
  
  ----
 
