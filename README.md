@@ -1,3 +1,11 @@
+<div>
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luxcium&layout=compact" alt="Top Langs">
+
+<img align="right" width="54%" src="https://github-readme-stats.vercel.app/api?username=Luxcium&theme=transparent&show_icons=true&count_private=true&include_all_commits=true">  
+</div>
+<br>
+
+
 # SOLID principles
 
 Although they apply to any object-oriented design, the SOLID principles can 
@@ -5,8 +13,6 @@ also form a core philosophy for methodologies such as [agile development](https:
 adaptive software development.
 
 ## Concepts
-
-
 
 - [Single-responsibility principle](https://en.wikipedia.org/wiki/Single-responsibility_principle)
 A class should only have a single responsibility, that is, only changes to one part of the software's specification should be able to affect the specification of the class.
