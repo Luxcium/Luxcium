@@ -1,7 +1,7 @@
 <div>
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luxcium&layout=compact" alt="Top Langs">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luxcium&layout=compact" alt="Top Langs">
 
-<img align="right" width="54%" src="https://github-readme-stats.vercel.app/api?username=Luxcium&theme=transparent&show_icons=true&count_private=true&include_all_commits=true">  
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Luxcium&theme=transparent&show_icons=true&count_private=true&include_all_commits=true">  
 </div>
 <br>
 
