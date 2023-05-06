@@ -13,7 +13,7 @@ also form a core philosophy for methodologies such as [agile development](https:
 adaptive software development.
 
 ## Concepts
-
+<a href="https://en.wikipedia.org/wiki/Barbara_Liskov"><img src="./images/Barbara_Liskov_MIT_computer_scientist_2010.jpg"  width="200px" align="right"></a>
 - [Single-responsibility principle](https://en.wikipedia.org/wiki/Single-responsibility_principle)
 A class should only have a single responsibility, that is, only changes to one part of the software's specification should be able to affect the specification of the class.
  - [Open–closed principle](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle)
@@ -33,6 +33,7 @@ in his 2000 paper Design Principles and Design Patterns. The SOLID acronym was i
 
 
 ###### From Wikipedia, the free encyclopedia ([source](https://en.wikipedia.org/wiki/SOLID)) ― [Used under license](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) ― Additional terms may apply.
+> [Barbara Liskov](https://en.wikipedia.org/wiki/Barbara_Liskov) (Picture) is an American computer scientist who has made pioneering contributions to programming languages and distributed computing.
  
  ----
  
