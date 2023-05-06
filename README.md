@@ -1,3 +1,5 @@
+# Luxcium ― † Scientia est lux principium✨ ™
+
 <div>
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Luxcium" alt="Top Langs">
 
@@ -5,15 +7,24 @@
 </div>
 <br>
 
-
-# SOLID principles
+## SOLID principles
 
 Although they apply to any object-oriented design, the SOLID principles can 
 also form a core philosophy for methodologies such as [agile development](https://en.wikipedia.org/wiki/Agile_software_development) or 
 adaptive software development.
 
-## Concepts
+### History
+
+The theory of SOLID principles was introduced by 
+[Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin) (Uncle Bob)
+in his 2000 paper Design Principles and Design Patterns. The SOLID acronym was introduced later by Michael Feathers.
+
+----
+
 <a href="https://en.wikipedia.org/wiki/Barbara_Liskov"><img src="./images/Barbara_Liskov_MIT_computer_scientist_2010.jpg"  width="200px" align="right"></a>
+
+### Concepts
+
 - [Single-responsibility principle](https://en.wikipedia.org/wiki/Single-responsibility_principle)
 A class should only have a single responsibility, that is, only changes to one part of the software's specification should be able to affect the specification of the class.
  - [Open–closed principle](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle)
@@ -25,21 +36,11 @@ A class should only have a single responsibility, that is, only changes to one p
  - [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
 One should "depend upon abstractions, [not] concretions.
 
-### History
+#### From Wikipedia, the free encyclopedia ([source](https://en.wikipedia.org/wiki/SOLID)) ― [Used under license](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) ― Additional terms may apply.
 
-The theory of SOLID principles was introduced by 
-[Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin) (Uncle Bob)
-in his 2000 paper Design Principles and Design Patterns. The SOLID acronym was introduced later by Michael Feathers.
-
-
-###### From Wikipedia, the free encyclopedia ([source](https://en.wikipedia.org/wiki/SOLID)) ― [Used under license](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) ― Additional terms may apply.
 > [Barbara Liskov](https://en.wikipedia.org/wiki/Barbara_Liskov) (Picture) is an American computer scientist who has made pioneering contributions to programming languages and distributed computing.
- 
- ----
- 
- 
- 
-# Design Patterns
+  
+## Design Patterns
 
 **Design Patterns:** *Elements of Reusable Object-Oriented Software (1994)* is a software engineering book describing software design patterns. The book was written by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, with a foreword by Grady Booch.
 
@@ -79,7 +80,7 @@ Class Behavioral: Template Method
 Object Behavioral: Visitor
 
 -->
-## Creational
+### Creational
 
 **Creational patterns are ones that create objects, rather than having to
 instantiate objects directly. This gives the program more flexibility in
@@ -93,7 +94,7 @@ deciding which objects need to be created for a given case.**
  - 04. [Prototype](https://en.wikipedia.org/wiki/Prototype_pattern) **O** creates objects by cloning an existing object.
  - 05. [Singleton](https://en.wikipedia.org/wiki/Singleton_pattern) **O** restricts object creation for a class to only one instance.
 
-## Structural
+### Structural
 
 **These concern class and object composition. They use inheritance to compose
 interfaces and define ways to compose objects to obtain new functionality.**
@@ -112,7 +113,7 @@ interfaces and define ways to compose objects to obtain new functionality.**
  - 12. [Proxy](https://en.wikipedia.org/wiki/Proxy_pattern) **O** provides a placeholder for another object to control access,
        reduce cost, and reduce complexity.
 
-## Behavioral
+### Behavioral
 
 **Most of these design patterns are specifically concerned with communication
 between objects.**
@@ -139,9 +140,9 @@ between objects.**
        the hierarchy of methods into one object.
 
 
-###### From Wikipedia, the free encyclopedia ([source](https://en.wikipedia.org/wiki/Design_Patterns)) ― [Used under license](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) ― Additional terms may apply.
+#### From Wikipedia, the free encyclopedia ([source](https://en.wikipedia.org/wiki/Design_Patterns)) ― [Used under license](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) ― Additional terms may apply.
  
- ----
+----
 
 ## ARCHIVED
 
@@ -160,4 +161,4 @@ between objects.**
 - Support other doing the chalenge
 
 ----
-Scientia es lux principium✨™
+Scientia est lux principium✨™
